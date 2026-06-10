@@ -1,0 +1,8 @@
+anthropic
+playwright
+pytest
+pytest-playwright
+requests
+jira
+PyGithub
+python-dotenv
